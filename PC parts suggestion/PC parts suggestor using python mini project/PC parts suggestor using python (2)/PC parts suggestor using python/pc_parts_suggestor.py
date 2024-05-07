@@ -1,0 +1,20 @@
+import pandas as pd
+print("PC Hardware recommendation mini project")
+print()
+print("This portal helps you to find your desired hardwares for your own PC")
+print()
+print("Prices mentioned are INR")
+print()
+print("Type 7 for Budget-Friendly (less than 50k INR) , Type 8 for Mid-End (less than 70k INR) , Type 9 for High-End (less than 100k INR) , Type 10 for Beast-End (less than 300k INR): ")
+print()
+model=int(input("Enter your Type of PC: "))
+budget=int(input("Enter the Budget: "))
+print()
+pc_parts = pd.read_csv('specs.csv')
+for index, row in pc_parts.iterrows():
+    if (row['Price :']<=budget)and (row['Performance :']==model):
+        print(row)
+        print()
+print("Choose from the parts mentioned above")
+print()
+print("THANK YOU")

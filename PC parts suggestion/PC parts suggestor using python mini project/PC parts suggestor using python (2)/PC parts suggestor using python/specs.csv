@@ -1,0 +1,41 @@
+﻿Component :,Model :,Price :,Performance :
+CPU,Intel Core i3-12100F,7378.36,7
+CPU,AMD 5000 Series Ryzen 7 5700X Desktop Processor 8 cores 16 Threads 36 MB Cache 3.4 GHz Upto 4.6 GHz Socket AM4 500 Series Chipset (100-100000926WOF),18776,9
+CPU,AMD 5000 Series Ryzen 5 5600X Desktop Processor 6 cores 12 Threads 35 MB Cache 3.7 GHz Upto 4.6 GHz AM4 Socket 500 Series Chipset (100-100000065BOX,15000,8
+CPU,"AMD 7000 Series Ryzen 9 7900X Desktop Processor 12 cores 24 Threads 76 MB Cache 4.7 GHz Up to 5.6 GHz Socket AM5, 600 Series Chipset (100-100000589WOF)",38000,10
+CPU,"Intel Core I5 12400F 12 Gen Generation Desktop Pc Processor 6, CPU with 18Mb Cache and Up to 4.40 Ghz Clock Speed Ddr5 and Ddr4 Ram Support Lga 1700 Socket, Micro ATX",14000,8
+CPU,Intel Core i7 12700 12th Gen Generation Desktop PC Processor CPU APU with 25MB Cache and up to 4.90 GHz Clock Speed 3 Years Warranty with Fan LGA 1700 4K ,35000,9
+CPU,Intel Core i9-12900K Desktop Processor16 (8P+8E) Cores up to 5.2 GHz Unlocked LGA1700 600 Series Chipset 125W,45000,10
+GPU,PNY GeForce GTX 1650 4GB GDDR6 Dual Fan ,14760,7
+GPU,"ASUS Dual AMD Radeon RX 6400 4GB GDDR6 Gaming Graphics Card (AMD RDNA 2, PCIe 4.0, 4GB, pci_e_x16 GDDR6 Memory, HDMI 2.1, DisplayPort 1.4a, Axial-tech Fan Design, 0dB Technology)",14818,7
+GPU,"Sapphire Pulse AMD Radeon RX 6600 Graphic Card with 8 GB GDDR6, AMD RDNA 2, pci_e_x16",21000,8
+GPU,"ASUS Dual AMD Radeon RX 6700 XT Standard Edition 12GB GDDR6 Gaming Graphics Card (AMD RDNA 2, PCIe 4.0, 12GB pci_e_x16 GDDR6 Memory, HDMI 2.1, DisplayPort 1.4a, Axial-tech Fan Design, 0dB Technology)",36000,9
+GPU,GIGABYTE NVIDIA GeForce RTX 3060 WINDFORCE OC 12GB GDDR6 pci_e_x16 Graphics Card (GV-N3060WF2OC-12GD),27000,8
+GPU,"ZOTACGaming GEFORCE RTX 3070 Twin Edge LHR GDDR6 8GB 256bit PCIe 4.0 Graphics Card with IceStorm 2.0 Cooling, 1725Mhz Boost Clock & 5 Years Warranty (3 Years Warranty + 2 Years Extended Warranty)",49000,9
+GPU,"Zotac Gaming GeForce RTX 4090 Trinity GDDR6X 24GB 384-bit PCIe 4.0 Gaming Graphics Card on Ada Lovelace Architecture with IceStorm 3.0 Cooling, Spectra 2.0 RGB Lighting & 5 Years Warranty",188000,10
+RAM,XPG ADATA GAMMIX D30 DDR4 8GB (1x8GB) 3200MHz U-DIMM Desktop Memory - AX4U32008G16A-SR30,1780,7
+RAM,XPG ADATA GAMMIX D30 DDR4 16GB (2x8GB) 3200MHz U-DIMM Desktop Memory - AX4U32008G16A-SR30,3560,8
+RAM,XPG ADATA GAMMIX D30 DDR4 32GB (2x16GB) 3200MHz ,5340,9
+RAM,ADATA XPG Lancer RGB 16GB (1 * 16 GB) DDR5 6000 MHz CL 40-40-40 U-DIMM Desktop Memory RAM - AX5U6000C4016G-CLARWH (White),5400,10
+RAM,ADATA XPG Lancer RGB 32GB (2 * 16 GB) DDR5 6000 MHz CL 40-40-40 U-DIMM Desktop Memory RAM - AX5U6000C4016G-CLARWH (White),12000,10
+Primary storage,Seagate BarraCuda 1 TB Internal Hard Drive HDD 3.5 Inches (8.8 cm) SATA 6 Gb/s 7200 RPM 64 MB Cache for Computer Desktop PC (ST1000DM010),3499,9
+Primary storage,Consistent 500 GB Hard Disk for Desktop,780,7
+Primary storage,Seagate Barracuda 2 TB Internal Hard Drive HDD 8.89 cm (3.5 Inch) SATA 6 Gb/s 5400 RPM 256 MB Cache for Computer Desktop PC (ST2000DM005),4500,10
+Secondary storage,EVM M.2 (2280) 128GB SSD - Fast Performaning SATA Internal Solid State Drive - Read Speed 520MB/s & Write Speed 370MB/s - 5 Years Warranty (EVMM2/128GB),780,7
+Secondary storage,EVM M.2 (2280) 128GB SSD - Fast Performaning SATA Internal Solid State Drive - Read Speed 520MB/s & Write Speed 370MB/s - 5 Years Warranty (EVMM2/128GB),780,8
+Secondary storage,"EVM25/256GB 256GB SSD 2.5"" INCH SATA",1212,9
+Secondary storage,Crucial BX500 500GB 2.5-inch SATA 3D NAND Internal SSD Upto 550 MB/s,2500,10
+Secondary storage,"Crucial P3 1TB PCIe 3.0 3D NAND NVMe M.2 SSD, up to 3500MB/s - CT1000P3SSD8",4500,10
+PSU,Cooler Master MWE 450 Bronze V2 Power Supply - Non-Modular | 80 Plus Bronze Certified | 120mm HDB Fan | DC-to-DC Circuit Design | ATX 2.52 Version | 450 Watt,3350,7
+PSU,Cooler Master MWE 550 Bronze V2 Power Supply - Non-Modular | 80 Plus Bronze Certified | 120mm HDB Fan | DC-to-DC Circuit Design | ATX 2.52 Version | 550 Watt,4239,8
+PSU,Cooler Master MWE 750 Bronze V2 Power Supply - Non Modular | 80 Plus Bronze Certified | 120mm HDB Fan | DC-to-DC Circuit Design | ATX 2.52 Version | 750 Watt,6920,9
+PSU,Corsair RM1000E 1000 Watt Fully Modular Low-Noise ATX Power Supply/PSU for PC - CP-9020250-IN,16000,10
+Motherboard,"MSI PRO H610M-E DDR4 Motherboard, Micro-ATX - Supports Intel 12th Gen Core Processors, LGA 1700-2 x DIMMs (3200MHz), 1x PCIe 4.0 x16 Slot, 1 x M.2 Gen3, USB 3.2 Gen1, 1G LAN, HDMI 1.4 & VGA",7500,8
+Motherboard,MSI A320M-A PRO AMD PCIe 3.0 DDR4 m-ATX Motherboard with USB 3.2 Gen1 HDMI DVI-D and SATA III 6Gbps,5000,8
+Motherboard,"MSI MAG Z690 Tomahawk WiFi DDR4 Gaming Motherboard, ATX - Supports Intel Core 12th Gen Processors, LGA 1700-16 Duet Rail VRM 70A, Memory Boost 5200MHz/OC, 1 x PCIe 5.0 x16, 3 x M.2 Gen4,Wi-Fi 6, Black",25310,10
+Motherboard,"MSI B550M Pro-Vdh WiFi Ddr4, M.2, USB 3.2 Gen 1, Front Type-C, Wi-Fi, Hdmi, Micro ATX Gaming Motherboard AMD Ryzen 5000 Series Desktop Processors",12000,10
+Motherboard,"MSI MAG B760M Mortar WiFi Motherboard | Supports 12th/13th Gen Intel Core Processor | 2X PCI-E x16, Gen 4 x4 M.2 | DDR5, 192GB Memory 7000+MHz/OC | 4xEZ Debug LED | RGB Mystic Light | Wi-Fi 6E",20878,10
+Case,"CHIPTRONEX Z810 Micro ATX Gaming Cabinet Tempered Glass, Acrylic USB 3.0 Gaming Case, Computer Case, Cabinet for PC, PC Cabinet, RGB Light, MATX MITX Motherboard Support Case Without SMPS (Black)",2199,10
+Case,"CHIPTRONEX Z810 Micro ATX Gaming Cabinet Tempered Glass, Acrylic USB 3.0 Gaming Case, Computer Case, Cabinet for PC, PC Cabinet, RGB Light, MATX MITX Motherboard Support Case Without SMPS (Black)",2199,7
+Case,"CHIPTRONEX Z810 Micro ATX Gaming Cabinet Tempered Glass, Acrylic USB 3.0 Gaming Case, Computer Case, Cabinet for PC, PC Cabinet, RGB Light, MATX MITX Motherboard Support Case Without SMPS (Black)",2199,8
+Case,"CHIPTRONEX Z810 Micro ATX Gaming Cabinet Tempered Glass, Acrylic USB 3.0 Gaming Case, Computer Case, Cabinet for PC, PC Cabinet, RGB Light, MATX MITX Motherboard Support Case Without SMPS (Black)",2199,9
